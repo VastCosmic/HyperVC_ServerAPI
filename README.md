@@ -10,6 +10,10 @@ With FastAPI, you can use it to Classify Hyperspectral Images with our model by 
 
 By the way, you may use the HyperVCApplication for Windows as a client to send requests to this server to gain a better experience.
 
+[VastCosmic/HyperVCApplication (github.com)](https://github.com/VastCosmic/HyperVCApplication)
+
+Beside, you can just use `postman` to test it.
+
 
 # Supported Model
 
